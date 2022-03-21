@@ -1,0 +1,10 @@
+header {
+    background-color: turquoise;
+    flex: auto;
+}
+
+img {
+    width: 300px;
+    height: 150px;
+    padding: 20px;
+}
